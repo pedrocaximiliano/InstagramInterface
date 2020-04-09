@@ -1,0 +1,6 @@
+module Pods_instagranProject {
+  umbrella header "Pods-instagranProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
